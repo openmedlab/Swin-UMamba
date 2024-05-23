@@ -1,4 +1,4 @@
-# Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining
+# [Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining](https://arxiv.org/abs/2402.03302)
 
 ## Key Features
 
@@ -44,13 +44,13 @@ All three datasets can be downloaded from [U-Mamba](https://github.com/bowang-la
 ## Get Started
 
 **Main Requirements**  
-> torch==2.0.1
-> torchvision==0.15.2
-> causal-conv1d==1.1.1
-> mamba-ssm
-> torchinfo  
-> timm
-> numba
+> torch==2.0.1  
+> torchvision==0.15.2  
+> causal-conv1d==1.1.1  
+> mamba-ssm  
+> torchinfo   
+> timm  
+> numba  
 
 
 **Installation**
